@@ -26,7 +26,7 @@ author: anshul
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 #url: 'https://phlow.github.io'
-url: 'https://github.com/AnshulVerma31'
+url: 'https://AnshulVerma31.github.io'
 baseurl: '/engineering-data'
 
 # This is for the editing function in _/includes/improve_content
