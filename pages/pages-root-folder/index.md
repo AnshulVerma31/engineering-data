@@ -8,20 +8,27 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blogs & Portfolio"
-  url: 'http://phlow.github.io/engineering-data/blog/'
+  title: "About me !"
+  url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
-  title: "Why read this blog? "
-  url: 'http://phlow.github.io/engineering-data/info/'
+  title: "Why I started this blog? "
+  url: 'http://anshulverma31.github.io/engineering-data/blog/'
   text: 'Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. For all the work that data scientists do to answer questions using large sets of information, there have to be mechanisms for collecting and validating that information. In order for that work to ultimately have any value, there also have to be mechanisms for applying it to real-world operations in some way. Those are both engineering tasks: the application of science to practical, functioning systems.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: widget-1-302x182.jpg
 widget3:
-  title: "Where to find more ?"
-  url: 'https://github.com/Phlow/engineering-data'
+  title: "Disclaimer !!!"
+  url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: widget-github-303x182.jpg
-  text: 'The content is free and licensed under a MIT License. '
+  text: 'This blog is in no way affiliated with or endorsed by McKinsey & Company or any other management consulting firm.
+
+The content of the blog posts is based on:
+1. Personal experiences captured to the best of my recollection
+2. General knowledge that is not client-confidential acquired during my time at the Firm
+3. Anecdotes and information provided by other current and former management consultants
+4. Articles, quotes, data, and other information from 3rd party sources will always be cited and linked to, whenever possible.
+'
 #
 # Use the call for action to show a button on the frontpage
 #
