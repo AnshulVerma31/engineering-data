@@ -1,49 +1,41 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another blog on Data Engineering ??"
-teaser: "Since years I have been working on Data Engineering and analytics. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "About me"
+subheadline: "A Data Engineer !!"
+teaser: ""
+
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "one.jpg"
 ---
+
+## Who am I?
+  
+
+I am a **Data Engineer and an Architect** who has been working in mutiple sectors and industries to enable data-powered decision making. I love to work with open source tools and learn via code from others. 
+
+As a Digital Expert and a Data Architect with _Mckinsey & Company_, I help my clients on their Digital and Analytics transformations. I specializes in building data-driven systems, and advanced analytics platforms and my core expertise lies in Data Engineering, Big data architecture design, Machine learning engineering and Business intelligence. 
+
+When I gets away from my computer, I love anything outdoors; I am a **sportsperson by heart**.
+
+## What do I do ?
+
+I solve complex data Engineering challenges; some of them are : 
+
+* Govern and makde petabytes of data discoverable and usable.
+* Process and store data (GBs to PBs) consistently and efficiently across a distributed cluster of dozens (or hundreds) of servers in an enterprise.
+* Ingest complex, multi-structured data from a variety of real-world sources that dynamically evolve.
+* Evaluate the technical trade-offs of tools to build simple, yet robust, architectures that survive hardware failures. 
+* Monitor systems in real-time to automate decisions within milliseconds of incoming events.
+* Enable and work alongside our Data Scientists to productionize advanced analytics algorithms to ensure business value
+* Create visibility across the enterprise by building business intelligence reports and data warehouses
+
 
 ## Why I started this blog?
 
-## My skills include
-
-* 
-
-
-
-## I got inspired by...
-
-* ...
-* ...
+I've learned from the best, and delivered repeatedly. Now its time to give back to the community ...
 
 ## How to contact me ?
 
-email: 
-social: 
+> verma[dot]anshul31[at]gmail.com
 
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #

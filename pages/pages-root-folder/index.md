@@ -11,11 +11,11 @@ widget1:
   title: "About me !"
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'I am a Data Engineer and an Architect who has been working in mutiple sectors and industries to enable data-powered decision making.'
 widget2:
   title: "Why I started this blog? "
   url: 'http://anshulverma31.github.io/engineering-data/blog/'
-  text: 'Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. For all the work that data scientists do to answer questions using large sets of information, there have to be mechanisms for collecting and validating that information. In order for that work to ultimately have any value, there also have to be mechanisms for applying it to real-world operations in some way. Those are both engineering tasks: the application of science to practical, functioning systems.
+  text: '
 
   Disclaimer !!!
 This blog is in no way affiliated with or endorsed by McKinsey & Company or any other management consulting firm.
@@ -53,9 +53,3 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
