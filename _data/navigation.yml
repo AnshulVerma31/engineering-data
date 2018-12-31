@@ -13,3 +13,7 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
+- title: "About me !"
+  url: "/info/"
+  side: right

@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About me !"
   url: 'http://anshulverma31.github.io/engineering-data/info/'
-  image: widget-1-302x182.jpg
+  image: About_Me-302x182.jpg
   text: 'I am a Data Engineer and an Architect who has been working in mutiple sectors and industries to enable data-powered decision making.'
 widget2:
   title: "Why I started this blog? "
