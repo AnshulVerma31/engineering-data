@@ -8,32 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "About me !"
+  title: "Who am I?"
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: About_Me-302x182.jpg
-  text: 'I am a Data Engineer and an Architect who has been working in mutiple sectors and industries to enable data-powered decision making.'
+  text: 'I am a technologist with expertise in Data Engineering, Architecture and Governance. I have been working for over a decade now, and have served companies in several sectors (Telecom, Manufacturing, E-Commerce, and Insurance). I specializes in building data-powered systems and advanced analytics platforms, and my core expertise lies in Data Engineering, Big data architecture design, Machine learning engineering and Business intelligence. '
 widget2:
   title: "Why I started this blog? "
   url: 'http://anshulverma31.github.io/engineering-data/blog/'
-  text: '
-
-  Disclaimer !!!
-This blog is in no way affiliated with or endorsed by McKinsey & Company or any other management consulting firm.
-
-The content of the blog posts is based on:
-1. Personal experiences captured to the best of my recollection
-2. General knowledge that is not client-confidential acquired during my time at the Firm
-3. Anecdotes and information provided by other current and former management consultants
-4. Articles, quotes, data, and other information from 3rd party sources will always be cited and linked to, whenever possible.
-  '
+  text: 'I have learned from the best, and delivered repeatedly. Now its time to give back to the community ...'
   image: widget-1-302x182.jpg
 widget3:
   title: "I help with : "
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: widget-github-303x182.jpg
-  text: '* Data Engineering
-  * Data Architecture
-  * Data Governance'
+  text: 'Data Engineering, Data Architecture, Data Governance'
 #
 # Use the call for action to show a button on the frontpage
 #
