@@ -11,7 +11,7 @@ widget1:
   title: "Who am I?"
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: About_Me-302x182.jpg
-  text: 'I am a technologist with expertise in Data Engineering, Architecture and Governance. I have been working for over a decade now, and have served companies in several sectors (Telecom, Manufacturing, E-Commerce, and Insurance). I specializes in building data-powered systems and advanced analytics platforms, and my core expertise lies in Data Engineering, Big data architecture design, Machine learning engineering and Business intelligence. '
+  text: 'I am a technologist with expertise in Data Engineering, Architecture and Governance. I have been working for over a decade now, and have served companies in several sectors (Telecom, Manufacturing, E-Commerce, and Insurance). '
 widget2:
   title: "Why I started this blog? "
   url: 'http://anshulverma31.github.io/engineering-data/blog/'
