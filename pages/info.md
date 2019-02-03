@@ -35,10 +35,6 @@ I solve complex data Engineering challenges; some of them are : 
 
 I have learned from the best, and delivered repeatedly. Now its time to give back to the community ...
 
-## How to contact me ?
-
-> verma[dot]anshul31[at]gmail.com
-
 ##  Disclaimer !!!
 This blog is in no way affiliated with or endorsed by McKinsey & Company or any other management consulting firm.
 
@@ -47,3 +43,7 @@ The content of the blog posts is based on:
 2. General knowledge that is not client-confidential acquired during my time at the Firm
 3. Anecdotes and information provided by other current and former management consultants
 4. Articles, quotes, data, and other information from 3rd party sources will always be cited and linked to, whenever possible.
+
+## How to contact me ?
+
+> verma[dot]anshul31[at]gmail.com
