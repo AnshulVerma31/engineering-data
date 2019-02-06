@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Who am I?"
   url: 'http://anshulverma31.github.io/engineering-data/info/'
-  image: Man.jpg
+  image: question.jpg
   text: 'I am a technologist with expertise in Data Engineering, Architecture and Governance. I have been working for over a decade now, and have served companies in several sectors (Telecom, Manufacturing, E-Commerce, and Insurance). '
 widget2:
   title: "Why I started this blog? "
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "I help with : "
   url: 'http://anshulverma31.github.io/engineering-data/info/'
-  image: widget-github-303x182.jpg
+  image: one.jpg
   text: 'Data Engineering, Data Architecture, and Data Governance'
 #
 # Use the call for action to show a button on the frontpage
