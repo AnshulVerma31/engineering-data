@@ -21,7 +21,7 @@ widget3:
   title: "I help with : "
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: widget-github-303x182.jpg
-  text: 'Data Engineering, Data Architecture, Data Governance'
+  text: 'Data Engineering, Data Architecture, and Data Governance'
 #
 # Use the call for action to show a button on the frontpage
 #

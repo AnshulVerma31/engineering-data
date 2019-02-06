@@ -154,6 +154,20 @@
             
           
         
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="http://localhost:4000/engineering-data/info/">About me !</a></li>
+
+            
+            
+          
+        
         
       </ul>
 
@@ -187,6 +201,12 @@
 
             
             
+          
+        
+
+              
+
+          
           
         
 
