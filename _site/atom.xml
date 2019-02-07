@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/engineering-data/</id>
 	<title>Engineering Data</title>
-	<updated>2019-02-06T20:23:09+05:30</updated>
+	<updated>2019-02-07T17:39:22+05:30</updated>
 
 	<subtitle>»Engineering Data« allows you to make data usable</subtitle>
 
@@ -26,6 +26,72 @@
 
 	
 		<entry>
+			<id>http://localhost:4000/engineering-data/design/WThoughts-around-data-security/</id>
+			<title>Thoughts around data security</title>
+			<link href="http://localhost:4000/engineering-data/design/WThoughts-around-data-security/" rel="alternate" type="text/html" title="Thoughts around data security" />
+			<updated>2018-12-25T00:00:00+05:30</updated>
+
+			
+				
+				<author>
+					
+						<name>anshul</name>
+					
+					
+					
+				</author>
+			
+			<summary>There is no doubt today that Data is a first-class citizen for every organisation. Utilising your data efficiently not only helps with traditional Profit and Loss levers but also helps in maintaining compliance with regulatory requirements.</summary>
+			<content type="html" xml:base="http://localhost:4000/engineering-data/design/WThoughts-around-data-security/">&lt;p&gt;There is no doubt today that Data is a first-class citizen for every organisation. &lt;strong&gt;Utilising your data efficiently not only helps with traditional Profit and Loss levers but also helps in maintaining compliance with regulatory requirements.&lt;/strong&gt; On one side, Advanced Analytics has been a major value generator where Machine learning models are reducing customer churn for one organisation and improving production quality for another. On the other side, Data Governance is reducing operating costs and instilling confidence in data by ensuring each data elements follows some kind of policy. Governing your data is also the only way to reduce regulatory risks. One huge component of such risk is on Data Privacy. Our world is filled with data privacy breaches. Be it Yahoo in 2013 where 3 billion user count details were leaked or Marriot in 2018, there are enough examples for us to learn and be better at cyber security. Even the most technically advanced companies such as Uber has been a victim of such breaches. Similarly, there have been a number of fines levied on enterprises that are not in compliance with data privacy policies; Google is the most recent recipient from GDPR authorities in Europe.&lt;/p&gt;
+
+&lt;p&gt;In this age of cloud computing and hybrid environments, the key to preserving privacy and security of the data for every enterprise is to &lt;strong&gt;think like a Regulator&lt;/strong&gt;. This means that enterprises should keep asking questions such as:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;What is the security capabilities of the Cloud provider or my own data centre?&lt;/li&gt;
+  &lt;li&gt;Who owns my data? Do have a single person or department to account for ownership and responsibility of my data?&lt;/li&gt;
+  &lt;li&gt;Do I know how is my data being used once I’ve stored it? Is it being used as it was intended to be used or in accordance with the agreements with your end-users ?&lt;/li&gt;
+  &lt;li&gt;How would you know whether you have a data incident or your data has been compromised ?&lt;/li&gt;
+  &lt;li&gt;How can you ensure that all instances of a data point is completely deleted? How would you exercise “GDPR’s right to forget” ?&lt;/li&gt;
+  &lt;li&gt;Do you know what type of data is stored? Have we classified data as PII and/or pHI?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Asking such questions to ourselves rather being asked by external authorities or end-users is a much better situation to be in. But what if we do not know answers to aforementioned questions or what if we are using a vendor(as as a public cloud provider) to store our data and we are not sure whether how we can be compliant. The answer here is &lt;strong&gt;3rd party certifications, assessments and audits&lt;/strong&gt;. Such audits do not just inform you where your gaps are, but also helps you learn and adopt the best practices used by organisations worldwide. There are industry and region specific certifications such as HIPAA (Healthcare), PCI DSS (Financial institutions), and MTCS (Singapore). There are also industry agnostic certifications such as ISO27001 (IT Security) and ISO 27017/18 (protection of personally identifiable information (PII)). These certifications educate enterprises about various controls (Information Security, Access Control, Cryptography, Consent &amp;amp; choice etc..) they need to have in place in order to secure their data and be compliant to regulatory needs. A good place to learn more about such certifications are here and here.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;more-articles-to-read-&quot;&gt;More Articles to read !&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/WThoughts-around-data-security/&quot;&gt;Trust, but verify &amp;middot; &lt;strong&gt;Thoughts around data security&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/What-is-data-Engineering/&quot;&gt;getting rid of the confusion &amp;middot; &lt;strong&gt;What is Data Engineering?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/About-digital-in-sales/&quot;&gt;getting rid of the confusion &amp;middot; &lt;strong&gt;Digital in Sales&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2018-12-25T00:00:00+05:30</published>
+		</entry>
+	
+		<entry>
 			<id>http://localhost:4000/engineering-data/design/What-is-data-Engineering/</id>
 			<title>What is Data Engineering?</title>
 			<link href="http://localhost:4000/engineering-data/design/What-is-data-Engineering/" rel="alternate" type="text/html" title="What is Data Engineering?" />
@@ -42,7 +108,7 @@
 				</author>
 			
 			<summary>Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. For all the work that data scientists do to answer questions using large sets of information, there have to be mechanisms for collecting and validating that information.</summary>
-			<content type="html" xml:base="http://localhost:4000/engineering-data/design/What-is-data-Engineering/">&lt;p&gt;Data scientists and engineers help power self-driving cars.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/engineering-data/design/What-is-data-Engineering/">&lt;p&gt;&lt;strong&gt;Data scientists and engineers help power self-driving cars.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;But a data scientist is only as good as the data they have access to. Most companies store their data in variety of formats across databases and text files. This is where data engineers come in — they build pipelines that transform that data into formats that data scientists can use. Data engineers are just as important as data scientists, but tend to be less visible because they tend to be further from the end product of the analysis.&lt;/p&gt;
 
@@ -69,6 +135,8 @@ A server that can pass requests from users to drivers, and handle other details 
 
   
 
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/WThoughts-around-data-security/&quot;&gt;Trust, but verify &amp;middot; &lt;strong&gt;Thoughts around data security&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/What-is-data-Engineering/&quot;&gt;getting rid of the confusion &amp;middot; &lt;strong&gt;What is Data Engineering?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -138,6 +206,8 @@ A server that can pass requests from users to drivers, and handle other details 
 
   
 
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/WThoughts-around-data-security/&quot;&gt;Trust, but verify &amp;middot; &lt;strong&gt;Thoughts around data security&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/engineering-data/design/What-is-data-Engineering/&quot;&gt;getting rid of the confusion &amp;middot; &lt;strong&gt;What is Data Engineering?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     

@@ -18,7 +18,7 @@ widget2:
   text: 'I have learned from the best, and delivered repeatedly. Now its time to give back to the community ...'
   image: widget-1-302x182.jpg
 widget3:
-  title: "I help with : "
+  title: "I can help with : "
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: one.jpg
   text: 'Data Engineering, Data Architecture, and Data Governance'
