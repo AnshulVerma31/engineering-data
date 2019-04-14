@@ -33,7 +33,7 @@ I solve complex data Engineering challenges; some of them are : 
 
 ## Why I started this blog?
 
-I have learned from the best, and delivered repeatedly. Now its time to give back to the community ...
+I have learned from the best, and delivered repeatedly. Its time to give back to the community ...
 
 ##  Disclaimer !!!
 This blog is in no way affiliated with or endorsed by McKinsey & Company or any other management consulting firm.

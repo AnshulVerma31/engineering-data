@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Thoughts around data security"
-subheadline:  "Trust, but verify"
+subheadline:  "Trust, but verify. Data security and protection are paramount."
 teaser: "There is no doubt today that Data is a first-class citizen for every organisation. Utilising your data efficiently not only helps with traditional Profit and Loss levers but also helps in maintaining compliance with regulatory requirements."
 categories:
     - design

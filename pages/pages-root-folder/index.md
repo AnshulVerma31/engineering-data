@@ -15,13 +15,13 @@ widget1:
 widget2:
   title: "Why I started this blog? "
   url: 'http://anshulverma31.github.io/engineering-data/blog/'
-  text: 'I have learned from the best, and delivered repeatedly. Now its time to give back to the community ...'
+  text: 'I have learned from the best, and delivered repeatedly. Its time to give back to the community. It is also an oportunity for me to refine my ideas and practivce to explain them in a succinct manner.'
   image: widget-1-302x182.jpg
 widget3:
-  title: "I can help with : "
+  title: "I am passionate about: "
   url: 'http://anshulverma31.github.io/engineering-data/info/'
   image: one.jpg
-  text: 'Data Engineering, Data Architecture, and Data Governance'
+  text: 'All things data - Data Engineering, Data Architecture, Data Governance, and Machine Learning Engineering'
 #
 # Use the call for action to show a button on the frontpage
 #
