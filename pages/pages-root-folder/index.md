@@ -18,10 +18,10 @@ widget2:
   text: 'I have learned from the best, and delivered repeatedly. Its time to give back to the community. It is also an oportunity for me to refine my ideas and practivce to explain them in a succinct manner.'
   image: widget-1-302x182.jpg
 widget3:
-  title: "*What* to expect here?"
-  url: 'http://anshulverma31.github.io/engineering-data/info/'
-  image: What_to_Expect-medium.jpg
-  text: 'All things data - Data Engineering, Data Architecture, Data Governance, and Machine Learning Engineering.'
+  title: "What to expect here?"
+  url: 'http://anshulverma31.github.io/engineering-data/blog/'
+  image: What-to-Expect.jpg
+  text: 'All things data - Data Engineering, Data Architecture, Data Governance, and Machine Learning Engineering. You should find my musings, demos, tutorials and some more faces of sharing my knowledge'
 #
 # Use the call for action to show a button on the frontpage
 #
