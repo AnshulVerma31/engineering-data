@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Digital in Sales"
-subheadline:  "getting rid of the confusion"
+subheadline:  "On Salestech"
 teaser: "Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. For all the work that data scientists do to answer questions using large sets of information, there have to be mechanisms for collecting and validating that information."
 categories:
     - design

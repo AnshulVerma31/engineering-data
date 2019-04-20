@@ -21,7 +21,7 @@ widget3:
   title: "What to expect here?"
   url: 'http://anshulverma31.github.io/engineering-data/blog/'
   image: What-to-Expect.jpg
-  text: 'All things data - Data Engineering, Data Architecture, Data Governance, and Machine Learning Engineering. You should find my musings, demos, tutorials and some more faces of sharing my knowledge'
+  text: 'All things data - Data Engineering, Data Architecture, Data Governance, and Machine Learning Engineering. You should find musings, demos, tutorials and some more faces of sharing my knowledge'
 #
 # Use the call for action to show a button on the frontpage
 #

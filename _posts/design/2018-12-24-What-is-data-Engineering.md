@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "What is Data Engineering?"
-subheadline:  "getting rid of the confusion"
+title:  "The love and hate relation between Data Enigneers and Data Scientists"
+subheadline:  "From a Data Engineer's perspective"
 teaser: "Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. For all the work that data scientists do to answer questions using large sets of information, there have to be mechanisms for collecting and validating that information."
 categories:
     - design
@@ -16,7 +16,6 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
-**Data scientists and engineers help power self-driving cars.**
 
 But a data scientist is only as good as the data they have access to. Most companies store their data in variety of formats across databases and text files. This is where data engineers come in — they build pipelines that transform that data into formats that data scientists can use. Data engineers are just as important as data scientists, but tend to be less visible because they tend to be further from the end product of the analysis.
 
